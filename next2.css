@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+
+  }
+  nav{
+      
+      background-color:black;
+      color:white;
+      padding:15px;
+  }
+  li,h1,ul{
+    display:inline;
+  }
+  ul{
+    margin-left:50%;
+  }
+  h1{
+    margin-right:284px;
+  }
+  a{
+    color:gray;
+  }
+  a{
+    color:gray;
+  }
+  a:hover{
+    color: aqua;
+  cursor: pointer;
+  }
+  h2{
+    color:red;
+  }
+  .oo{
+    margin-left:80%;
+  }
+  details{
+    color:aquamarine;
+  }

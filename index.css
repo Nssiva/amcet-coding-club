@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+
+  }
+  nav{
+      
+      background-color:black;
+      color:white;
+      padding:15px;
+  }
+  li,h1,ul{
+    display:inline;
+  }
+  ul{
+    margin-left:40%;
+  }
+  h1{
+    margin-right:284px;
+  }
+  a{
+    color:gray;
+  }
+  a{
+    color:gray;
+  }
+  a:hover{
+    color: aqua;
+  cursor: pointer;
+  }
+  input{
+    width:60%;
+    padding:15px;
+    border-color:aqua;
+  }
+  .two{
+    padding:50px;
+    text-align: center;
+  
+  }
+  hr{
+    color:aqua;
+  }
+ 
+ .five{
+    display: block;
+ }
+ a{
+    margin-right:13px;
+ }
+ h2{
+    color: red;
+ }
+    
+ h3{
+    margin-left:13px;
+    color:red;
+
+ }
+ h4{
+color:red;
+margin-left:50%;
+ }
